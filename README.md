@@ -7,34 +7,32 @@ Reference https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset
 
 ## About Dataset
 
-Demographic Information:
+- Demographic Information:
 
-Age: Age of the customer.
+- Age: Age of the customer.
 
-Gender: Gender of the customer.
+- Gender: Gender of the customer.
 
-Marital Status: Marital status of the customer.
+- Marital Status: Marital status of the customer.
 
-Occupation: Occupation of the customer.
+- Occupation: Occupation of the customer.
 
-Monthly Income: Monthly income of the customer.
+- Monthly Income: Monthly income of the customer.
 
-Educational Qualifications: Educational 
+- Educational Qualifications: Educational 
 qualifications of the customer.
 
-Family Size: Number of individuals in the customer's family.
+- Family Size: Number of individuals in the customer's family.
 
-Location Information:
+- Latitude: Latitude of the customer's location.
 
-Latitude: Latitude of the customer's location.
+- Longitude: Longitude of the customer's location.
 
-Longitude: Longitude of the customer's location.
+- Pin Code: Pin code of the customer's location.
 
-Pin Code: Pin code of the customer's location.
+- Output: Current status of the order (e.g., pending, confirmed, delivered).
 
-Output: Current status of the order (e.g., pending, confirmed, delivered).
-
-Feedback: Feedback provided by the customer after receiving the order.
+- Feedback: Feedback provided by the customer after receiving the order.
 
 Snapshot of datasets
 
