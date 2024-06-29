@@ -69,20 +69,44 @@ To explore the relationship between demographic/location factors and online food
 
 - Loading the Dataset
 
+![Online foods 4](https://github.com/daodu-tobi/EDA-ONLINE-FOOD-STORE/assets/145832039/b643fb8d-6800-48cc-8e4f-88f5b07ddea9)
+
 - Explore Dataset
 
 - Data Cleaning and Manipulation
 
 - Data Visualization
 
-- Insights
+Snapshot of Visualization
 
-- Conclusions
+![Online Foods](https://github.com/daodu-tobi/EDA-ONLINE-FOOD-STORE/assets/145832039/4e843286-d51f-4b64-ac3f-9e17483fceaa)
+
+![Online foods 3](https://github.com/daodu-tobi/EDA-ONLINE-FOOD-STORE/assets/145832039/7443667f-0320-4499-ac99-2fa1b497d3c0)
+
+- Insights and Conclusions
+
+   **1.** Online orders were made frequently by young adult at age 23
+
+  **2.** In general most orders were made from ages 22 to 25
+
+  **3.** The feedback comment from customers were extremely positive as compared to the negative feedback
+
+  **4.** Singles ordered food online at a higher frequency than married and others
+
+  **5.** There were more positive feedbacks from males that ordered food online as compared to the females
+
+  **6.** The negative feedback was slightly higher among males than the females
+
+  **7.** The frequecy of positive feedback was highest among singles
+
+  **8.** The frequency of positive feedback is low among the married as compared to the singles
+
+  **9.** Negative feedback was generally low across the marital status
+
+  **10.** Customers whose orders were delivered gave positive feedback
 
 - Predictions 
 
 #### Please click link to view solution to Project
 
 https://github.com/daodu-tobi/EDA-ONLINE-FOOD-STORE/blob/main/EDA%20ONLINE%20FOOD_DATA%20(1).ipynb
-
-
